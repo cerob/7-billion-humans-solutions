@@ -1,0 +1,8 @@
+-- 7 Billion Humans (2215) --
+-- 19: Content Creators Bug Fix --
+
+a:
+takefrom s
+giveto se
+step w
+jump a

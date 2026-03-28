@@ -1,0 +1,27 @@
+-- 7 Billion Humans (2215) --
+-- 37: Dangerous Spreadsheeting --
+
+a:
+b:
+c:
+if c == nothing and
+ e != hole:
+	step e
+	jump c
+endif
+mem1 = calc mem1 + c
+if e == hole:
+	step ne
+	if se == hole:
+		step e
+	endif
+	step se
+	jump b
+endif
+step e
+if e != wall:
+	jump a
+endif
+pickup c
+write mem1
+drop

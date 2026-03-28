@@ -1,0 +1,11 @@
+-- 7 Billion Humans (2215) --
+-- 5: An Important Decision --
+
+if w == 1:
+	a:
+	step w
+	jump a
+endif
+b:
+step e
+jump b
