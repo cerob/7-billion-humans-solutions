@@ -1,0 +1,24 @@
+-- 7 Billion Humans (2215) --
+-- 50: Cubical Communication --
+
+mem3 = nearest printer
+if sw > 1:
+	listenfor ok
+endif
+if sw > 2:
+	listenfor ok
+endif
+if sw > 3:
+	listenfor ok
+endif
+takefrom mem3
+giveto se
+takefrom mem3
+giveto se
+takefrom mem3
+giveto se
+takefrom mem3
+giveto se
+takefrom mem3
+giveto se
+tell everyone ok

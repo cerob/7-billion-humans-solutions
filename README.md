@@ -75,20 +75,26 @@ Links:
 | Blue   | [Year 44 - Speed 2](solutions/year44-size22-speed55.wasm) |     22/11     |     55/75      |
 |        | Year 45 - N/A                                             |       -       |       -        |
 | Orange | [Year 46](solutions/year46-size7-speed15.wasm)            |      7/7      |     15/15      |
-| Orange | Year 47                                                   |               |                |
-| Orange | Year 48                                                   |               |                |
-| Orange | Year 49                                                   |               |                |
-| Orange | Year 50                                                   |               |                |
-| Orange | Year 51                                                   |               |                |
-| Orange | Year 52                                                   |               |                |
-| Orange | Year 53                                                   |               |                |
-| Orange | Year 54                                                   |               |                |
-| Red    | Year 55                                                   |               |                |
-| Red    | Year 56                                                   |               |                |
-| Red    | Year 57                                                   |               |                |
+| Orange | [Year 47](solutions/year47-size3-speed7.wasm)             |      3/3      |      7/8       |
+| Orange | [Year 48](solutions/year48-size6-speed7.wasm)             |      6/6      |      7/8       |
+| Orange | [Year 49](solutions/year49-size7-speed17.wasm)            |      7/7      |     14/17      |
+| Orange | [Year 50 - Size](solutions/year50-size12-speed100.wasm)   |     12/12     |     100/60     |
+| Orange | [Year 50 - Speed](solutions/year50-size18-speed59.wasm)   |     18/12     |     59/60      |
+| Orange | [Year 51](solutions/year51-size7-speed26.wasm)            |      7/7      |     26/27      |
+| Orange | [Year 52 - Size](solutions/year52-size23-speed220.wasm)   |     23/26     |    220/158     |
+| Orange | [Year 52 - Speed](solutions/year52-size27-speed154.wasm)  |     27/26     |    154/158     |
+| Orange | [Year 53 - Size](solutions/year53-size15-speed110.wasm)   |     15/16     |     110/80     |
+| Orange | [Year 53 - Speed](solutions/year53-size42-speed48.wasm)   |     42/16     |     48/80      |
+| Orange | [Year 54](solutions/year54-size26-speed88.wasm)           |     26/26     |     88/90      |
+| Orange | [Year 54 - Size](solutions/year54-size23-speed98.wasm)    |     23/26     |     98/90      |
+| Orange | [Year 54 - Speed](solutions/year54-size27-speed89.wasm)   |     27/26     |     89/90      |
+| Red    | [Year 55](solutions/year55-size8-speed25.wasm)            |      8/8      |     25/25      |
+| Red    | [Year 56](solutions/year56-size8-speed13.wasm)            |      8/8      |     13/14      |
+| Red    | [Year 57](solutions/year57-size16-speed96.wasm)           |     16/16     |     96/100     |
 | Red    | Year 58                                                   |               |                |
-| Red    | Year 59                                                   |               |                |
-| Red    | Year 60                                                   |               |                |
+| Red    | [Year 59](solutions/year59-size6-speed12.wasm)            |      6/7      |     12/15      |
+| Red    | [Year 59 - Size](solutions/year59-size5-speed43.wasm)     |      5/7      |     43/15      |
+| Red    | [Year 60](solutions/year60-size12-speed195.wasm)          |     12/12     |    195/200     |
 | Red    | Year 61                                                   |               |                |
 | Red    | Year 62                                                   |               |                |
 | Red    | Year 63                                                   |               |                |

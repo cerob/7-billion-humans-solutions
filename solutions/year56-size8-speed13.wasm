@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2215) --
+-- 56: Local Maximums --
+
+mem1 = nearest shredder
+step w
+step w
+mem3 = foreachdir nw,w,sw,n,s,ne,e,se:
+	if mem3 > mem2:
+		mem2 = set mem3
+	endif
+endfor
+pickup mem2
+giveto mem1
