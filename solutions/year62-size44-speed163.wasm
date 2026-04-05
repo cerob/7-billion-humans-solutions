@@ -1,0 +1,75 @@
+-- 7 Billion Humans (2215) --
+-- 62: The Sorting Floor --
+
+if s == worker:
+	a:
+	step e
+	jump a
+endif
+b:
+c:
+if n == hole:
+	if w == hole or
+	 e == hole:
+		step n
+	endif
+	jump d
+endif
+if n != datacube:
+	step n
+	jump c
+endif
+pickup n
+e:
+if s != hole and
+ s != datacube:
+	step s
+	jump e
+endif
+drop
+jump b
+f:
+d:
+g:
+if e != hole:
+	step e
+	jump g
+endif
+h:
+step s
+if s != hole:
+	jump h
+endif
+step nw
+if c == datacube:
+	mem1 = set c
+else:
+	mem1 = set 99
+endif
+mem2 = foreachdir nw,w,sw,n,s,ne,e,se:
+	if mem2 <= mem1:
+		mem1 = set mem2
+	endif
+endfor
+pickup mem1
+i:
+if e != hole:
+	step e
+	jump i
+endif
+step n
+step n
+j:
+if n != datacube and
+ n != hole:
+	step n
+	jump j
+endif
+k:
+if w != hole and
+ w != datacube:
+	step w
+	jump k
+endif
+drop
+jump f

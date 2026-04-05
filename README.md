@@ -96,7 +96,7 @@ Links:
 | Red    | [Year 59 - Size](solutions/year59-size5-speed43.wasm)     |      5/7      |     43/15      |
 | Red    | [Year 60](solutions/year60-size12-speed195.wasm)          |     12/12     |    195/200     |
 | Red    | Year 61                                                   |               |                |
-| Red    | Year 62                                                   |               |                |
+| Red    | [Year 62](solutions/year62-size44-speed163.wasm)          |     44/48     |    163/170     |
 | Red    | Year 63                                                   |               |                |
 | Red    | Year 64                                                   |               |                |
 | Red    | Year 65                                                   |               |                |
