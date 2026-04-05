@@ -1,0 +1,29 @@
+-- 7 Billion Humans (2215) --
+-- 66: Decimal Counter --
+
+step s
+if s == button:
+	a:
+	listenfor ready
+	step s
+	step n
+	tell w go
+	jump a
+endif
+pickup c
+step s
+jump b
+c:
+listenfor go
+pickup c
+if myitem < 9:
+	mem1 = calc myitem + 1
+	write mem1
+	b:
+	tell everyone ready
+else:
+	tell w go
+	write 0
+endif
+drop
+jump c

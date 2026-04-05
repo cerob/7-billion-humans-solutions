@@ -68,7 +68,8 @@ Links:
 | Blue   | [Year 40](solutions/year40-size10-speed55.wasm)           |     10/10     |     55/55      |
 | Blue   | [Year 41 - Size](solutions/year41-size8-speed33.wasm)     |      8/8      |     33/15      |
 | Blue   | [Year 41 - Speed](solutions/year41-size27-speed8.wasm)    |     27/8      |      8/15      |
-| Blue   | Year 42                                                   |               |                |
+| Blue   | [Year 42 - Size](solutions/year42-size17-speed206.wasm)   |     17/18     |    206/200     |
+| Blue   | Year 42 - Speed                                           |      /18      |      /200      |
 | Blue   | [Year 43](solutions/year43-size11-speed50.wasm)           |     11/11     |     50/53      |
 | Blue   | [Year 44](solutions/year44-size10-speed71.wasm)           |     10/11     |     71/75      |
 | Blue   | [Year 44 - Speed](solutions/year44-size20-speed68.wasm)   |     20/11     |     68/75      |
@@ -98,9 +99,11 @@ Links:
 | Red    | Year 61                                                   |               |                |
 | Red    | [Year 62](solutions/year62-size44-speed163.wasm)          |     44/48     |    163/170     |
 | Red    | Year 63                                                   |               |                |
-| Red    | Year 64                                                   |               |                |
+| Red    | [Year 64 - Size](solutions/year64-size17-speed66.wasm)    |     17/17     |     66/54      |
+| Red    | Year 64 - Speed                                           |      /17      |      /54       |
 | Red    | Year 65                                                   |               |                |
-| Red    | Year 66                                                   |               |                |
-| Red    | Year 67                                                   |               |                |
-| Red    | Year 68                                                   |               |                |
+| Red    | [Year 66 - Size](solutions/year66-size21-speed139.wasm)   |     21/23     |    139/120     |
+| Red    | Year 66 - Speed                                           |      /23      |      /120      |
+| Red    | [Year 67](solutions/year67-size25-speed242.wasm)          |     25/25     |    242/250     |
+| Red    | [Year 68](solutions/year68-size8-speed39.wasm)            |      8/9      |     39/50      |
 |        | Year 69 - N/A                                             |       -       |       -        |

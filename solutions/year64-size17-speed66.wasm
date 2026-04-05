@@ -1,0 +1,24 @@
+-- 7 Billion Humans (2215) --
+-- 64: Binary Counter --
+
+step s
+if s == button:
+	a:
+	step s
+	step n
+	tell w go
+	listenfor ready
+	jump a
+endif
+step s
+pickup n
+b:
+listenfor go
+if myitem == nothing:
+	pickup c
+	tell w go
+else:
+	drop
+	tell everyone ready
+endif
+jump b
